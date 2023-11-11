@@ -17,9 +17,10 @@ Vous pouvez aussi utiliser le service cloud de Google avec la solution [Google C
 
 ## Structure de ce répertoire
 
-1. Téléchargez le projet sur votre machine.
+* Correction des exercices du [chapitre 1](chapitre1)
+* Correction des exercices du [chapitre 2](chapitre2)
+* Correction de l'[exercice de révision](revision) (gestion des notes)
 
-<ins>PS : N'oubliez pas de démarrer Apache.</ins>
 ## License
 
 Ce projet est sous licence [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/). 
