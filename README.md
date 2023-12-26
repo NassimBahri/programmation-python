@@ -20,6 +20,8 @@ Vous pouvez aussi utiliser le service cloud de Google avec la solution [Google C
 * Correction des exercices du [chapitre 1](chapitre1)
 * Correction des exercices du [chapitre 2](chapitre2)
 * Correction de l'[exercice de révision](revision) (gestion des notes)
+* Correction des exercices du [chapitre 3](chapitre3)
+* Correction des exercices [gestion des fichiers](tp-fichiers)
 
 ## License
 
