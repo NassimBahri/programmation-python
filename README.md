@@ -1,6 +1,6 @@
-# TPs Langages de programmation évolués-BI
+# TPs Programmation Python
 
-Ce Répertoire contient le code source des TPs enseignés à l'[Université Libre de Tunis (ULT)](https://www.ult-tunisie.com) dans le cadre du cours *Langages de programmation évolués-BI (Python)*.
+Ce Répertoire contient le code source des TPs enseignés à l'[Université Libre de Tunis (ULT)](https://www.ult-tunisie.com) dans le cadre des cours *Langages de programmation évolués-BI* et *Programmation Python*.
 
 ## Responsable du module
 
