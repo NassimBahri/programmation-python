@@ -22,6 +22,7 @@ Vous pouvez aussi utiliser le service cloud de Google avec la solution [Google C
 * Correction de l'[exercice de révision](revision) (gestion des notes)
 * Correction des exercices du [chapitre 3](chapitre3)
 * Correction des exercices [gestion des fichiers](tp-fichiers)
+* Correction du [DS (2024/2025)](correction-ds-24-25.ipynb)
 
 ## License
 
